@@ -1,0 +1,6 @@
+{
+  "name": "BBM Neo",
+  "description": "A secure, end-to-end encrypted recreation of the classic BBM with chats, groups, feeds, status updates, ganti PIN, and the iconic PING!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
